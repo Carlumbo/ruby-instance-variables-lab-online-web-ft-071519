@@ -6,4 +6,5 @@ end
     this_dogs_name
 end 
 
-lassie = dog.new
+lassie = Dog.new
+lassie.name
